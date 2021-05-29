@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Mimeofy",
+  "description": "A code snipper copying machine. Machine Learning not included :D",
+  "version": "1.1",
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://github.com/ramidem/mimieofy"
+    ]
+  }
+}
